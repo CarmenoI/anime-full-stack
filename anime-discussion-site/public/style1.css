@@ -1,0 +1,61 @@
+body{
+  padding-top: 1px;
+  word-wrap:break-word;
+  background-color: orange;
+}
+.container, .jumbotron{
+  background-image: url("https://media.giphy.com/media/KfSNLpjSDI41y/giphy.gif");
+}
+.orange{
+  color: gold;
+
+}
+img{
+  height: 200px;
+}
+
+h3{
+  font-size: 1.5em;
+  font-weight: bold;
+  margin:0 0 10px 0;
+}
+
+.order{
+  font-size: 2em;
+}
+
+.complete{
+  color: red;
+}
+h4{
+  font-weight: bold;
+}
+
+ul{
+  list-style: none;
+}
+
+.compOrd{
+  font-size: 1.4em;
+}
+
+.barista{
+  color: black;
+}
+
+.orange{
+  color: yellow;
+}
+
+img{
+  width: 660px;
+  height: 350px;
+}
+form{
+height: 6px;
+}
+input{
+  display: block;
+}
+.btn btn-default{
+}
